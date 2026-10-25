@@ -5,6 +5,8 @@
 
 **Read the paper:** [Markdown](paper/Acquisition_Decision_Tasks.md) | [PDF](paper/Acquisition_Decision_Tasks.pdf)
 
+**Archived technical paper:** [Zenodo](https://zenodo.org/records/23652653) | DOI: [10.5281/zenodo.23652653](https://doi.org/10.5281/zenodo.23652653)
+
 **Fictional demonstration dataset:** [Hugging Face](https://huggingface.co/datasets/Nicklauga/acquisition-decision-tasks-showcase)
 
 This repository demonstrates how source-grounded acquisition questions can
