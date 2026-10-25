@@ -13,12 +13,22 @@ tags:
 - permission-reasoning
 - financial-reasoning
 - model-evaluation
+configs:
+- config_name: tasks
+  default: true
+  data_files:
+  - split: demo
+    path: tasks.jsonl
+- config_name: references
+  data_files:
+  - split: demo
+    path: references.jsonl
 ---
 
 # Acquisition Decision Tasks - Fictional Showcase
 
 **Nicholas Lauga, October 2026 - four public demonstration questions from two
-fictional acquisition situations.** See the accompanying technical paper.
+fictional acquisition situations.** [Technical paper](https://github.com/nicklauga/acquisition-decision-tasks/blob/main/paper/Acquisition_Decision_Tasks.md) | [PDF](https://github.com/nicklauga/acquisition-decision-tasks/blob/main/paper/Acquisition_Decision_Tasks.pdf) | [Scoring code](https://github.com/nicklauga/acquisition-decision-tasks/tree/main/demo).
 
 ## What this contains
 
