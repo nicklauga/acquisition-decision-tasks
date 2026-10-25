@@ -5,6 +5,8 @@
 
 **Read the paper:** [Markdown](paper/Acquisition_Decision_Tasks.md) | [PDF](paper/Acquisition_Decision_Tasks.pdf)
 
+**Fictional demonstration dataset:** [Hugging Face](https://huggingface.co/datasets/Nicklauga/acquisition-decision-tasks-showcase)
+
 This repository demonstrates how source-grounded acquisition questions can
 test whether an artificial intelligence system updates its answer when
 financial evidence and document-use permission change.
